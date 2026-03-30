@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eduardo\\source\\projetos\\Roteiro II\\",
+  "WorkspaceRootPath": "C:\\Users\\Eduardo\\Documents\\repo\\Roteiros-POO-II\\Roteiro II\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB0C6365-4168-4063-A0F8-6874B58D8D0B}|Roteiro II\\Roteiro II.csproj|c:\\users\\eduardo\\source\\projetos\\roteiro ii\\roteiro ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB0C6365-4168-4063-A0F8-6874B58D8D0B}|Roteiro II\\Roteiro II.csproj|solutionrelative:roteiro ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8610CE1-9F18-4725-8424-14DEEB3106AA}|Exercicio-4\\Exercicio-4.csproj|c:\\users\\eduardo\\documents\\repo\\roteiros-poo-ii\\roteiro ii\\exercicio-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8610CE1-9F18-4725-8424-14DEEB3106AA}|Exercicio-4\\Exercicio-4.csproj|solutionrelative:exercicio-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB0C6365-4168-4063-A0F8-6874B58D8D0B}|Roteiro II\\Roteiro II.csproj|c:\\users\\eduardo\\source\\projetos\\roteiro ii\\roteiro ii\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB0C6365-4168-4063-A0F8-6874B58D8D0B}|Roteiro II\\Roteiro II.csproj|solutionrelative:roteiro ii\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8610CE1-9F18-4725-8424-14DEEB3106AA}|Exercicio-4\\Exercicio-4.csproj|c:\\users\\eduardo\\documents\\repo\\roteiros-poo-ii\\roteiro ii\\exercicio-4\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8610CE1-9F18-4725-8424-14DEEB3106AA}|Exercicio-4\\Exercicio-4.csproj|solutionrelative:exercicio-4\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0A49EF-5A8F-4BE9-B351-A244BEB8B1D3}|Exercicio-3\\Exercicio-3.csproj|c:\\users\\eduardo\\documents\\repo\\roteiros-poo-ii\\roteiro ii\\exercicio-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0A49EF-5A8F-4BE9-B351-A244BEB8B1D3}|Exercicio-3\\Exercicio-3.csproj|solutionrelative:exercicio-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\projetos\\Roteiro II\\Roteiro II\\Program.cs",
-              "RelativeDocumentMoniker": "Roteiro II\\Program.cs",
-              "ToolTip": "C:\\Users\\Eduardo\\source\\projetos\\Roteiro II\\Roteiro II\\Program.cs*",
-              "RelativeToolTip": "Roteiro II\\Program.cs*",
-              "ViewState": "AgIAAG8AAAAAAAAAAADwv38AAAAwAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Documents\\repo\\Roteiros-POO-II\\Roteiro II\\Exercicio-4\\Class1.cs",
+              "RelativeDocumentMoniker": "Exercicio-4\\Class1.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Documents\\repo\\Roteiros-POO-II\\Roteiro II\\Exercicio-4\\Class1.cs",
+              "RelativeToolTip": "Exercicio-4\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T23:07:28.487Z",
+              "WhenOpened": "2026-03-30T14:34:10.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\projetos\\Roteiro II\\Roteiro II\\Class1.cs",
-              "RelativeDocumentMoniker": "Roteiro II\\Class1.cs",
-              "ToolTip": "C:\\Users\\Eduardo\\source\\projetos\\Roteiro II\\Roteiro II\\Class1.cs",
-              "RelativeToolTip": "Roteiro II\\Class1.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAAC4AAAAlAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Documents\\repo\\Roteiros-POO-II\\Roteiro II\\Exercicio-4\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio-4\\Program.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Documents\\repo\\Roteiros-POO-II\\Roteiro II\\Exercicio-4\\Program.cs",
+              "RelativeToolTip": "Exercicio-4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T00:27:56.42Z",
+              "WhenOpened": "2026-03-30T14:33:58.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Documents\\repo\\Roteiros-POO-II\\Roteiro II\\Exercicio-3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio-3\\Program.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Documents\\repo\\Roteiros-POO-II\\Roteiro II\\Exercicio-3\\Program.cs",
+              "RelativeToolTip": "Exercicio-3\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T14:32:07.009Z",
               "EditorCaption": ""
             }
           ]

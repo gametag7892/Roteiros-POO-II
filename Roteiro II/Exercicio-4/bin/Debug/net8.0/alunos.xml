@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<alunos>
+	<aluno>
+		<nome>Maria</nome>
+		<curso>Sistemas de Informação</curso>
+	</aluno>
+	<aluno>
+		<nome>João</nome>
+		<curso>Engenharia de Software</curso>
+	</aluno>
+</alunos>

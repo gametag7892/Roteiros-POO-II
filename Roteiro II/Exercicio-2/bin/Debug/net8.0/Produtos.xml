@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<estoque xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <item>
+    <nome>Teclado</nome>
+    <preco>15.6</preco>
+    <quantidade>5</quantidade>
+  </item>
+  <item>
+    <nome>Mouse</nome>
+    <preco>15.6</preco>
+    <quantidade>3</quantidade>
+  </item>
+  <item>
+    <nome>Headphone</nome>
+    <preco>90</preco>
+    <quantidade>4</quantidade>
+  </item>
+</estoque>
