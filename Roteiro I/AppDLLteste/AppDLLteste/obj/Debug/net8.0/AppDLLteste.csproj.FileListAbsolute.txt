@@ -1,0 +1,6 @@
+C:\Users\Eduardo\Documents\POO II\Roteiro I\AppDLLteste\AppDLLteste\obj\Debug\net8.0\AppDLLteste.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Documents\POO II\Roteiro I\AppDLLteste\AppDLLteste\obj\Debug\net8.0\AppDLLteste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Documents\POO II\Roteiro I\AppDLLteste\AppDLLteste\obj\Debug\net8.0\AppDLLteste.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Documents\POO II\Roteiro I\AppDLLteste\AppDLLteste\obj\Debug\net8.0\AppDLLteste.AssemblyInfo.cs
+C:\Users\Eduardo\Documents\POO II\Roteiro I\AppDLLteste\AppDLLteste\obj\Debug\net8.0\AppDLLteste.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\POO II\Roteiro I\AppDLLteste\AppDLLteste\obj\Debug\net8.0\AppDLLteste.sourcelink.json

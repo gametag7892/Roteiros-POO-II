@@ -1,0 +1,11 @@
+C:\Users\Eduardo\Documents\POO II\Roteiro I\DLLdoBetinha\DLLdoBetinha\bin\Debug\net8.0\DLLdoBetinha.deps.json
+C:\Users\Eduardo\Documents\POO II\Roteiro I\DLLdoBetinha\DLLdoBetinha\bin\Debug\net8.0\DLLdoBetinha.dll
+C:\Users\Eduardo\Documents\POO II\Roteiro I\DLLdoBetinha\DLLdoBetinha\bin\Debug\net8.0\DLLdoBetinha.pdb
+C:\Users\Eduardo\Documents\POO II\Roteiro I\DLLdoBetinha\DLLdoBetinha\obj\Debug\net8.0\DLLdoBetinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Documents\POO II\Roteiro I\DLLdoBetinha\DLLdoBetinha\obj\Debug\net8.0\DLLdoBetinha.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Documents\POO II\Roteiro I\DLLdoBetinha\DLLdoBetinha\obj\Debug\net8.0\DLLdoBetinha.AssemblyInfo.cs
+C:\Users\Eduardo\Documents\POO II\Roteiro I\DLLdoBetinha\DLLdoBetinha\obj\Debug\net8.0\DLLdoBetinha.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\POO II\Roteiro I\DLLdoBetinha\DLLdoBetinha\obj\Debug\net8.0\DLLdoBetinha.dll
+C:\Users\Eduardo\Documents\POO II\Roteiro I\DLLdoBetinha\DLLdoBetinha\obj\Debug\net8.0\refint\DLLdoBetinha.dll
+C:\Users\Eduardo\Documents\POO II\Roteiro I\DLLdoBetinha\DLLdoBetinha\obj\Debug\net8.0\DLLdoBetinha.pdb
+C:\Users\Eduardo\Documents\POO II\Roteiro I\DLLdoBetinha\DLLdoBetinha\obj\Debug\net8.0\ref\DLLdoBetinha.dll

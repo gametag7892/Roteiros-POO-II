@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Roteiro III")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19ceff544d5f5d082eaa90a8c9ac0480ded46c51")]
 [assembly: System.Reflection.AssemblyProductAttribute("Roteiro III")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Roteiro III")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

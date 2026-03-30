@@ -1,0 +1,11 @@
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaConversao\BibliotecaConversao\bin\Debug\net8.0\BibliotecaConversao.deps.json
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaConversao\BibliotecaConversao\bin\Debug\net8.0\BibliotecaConversao.dll
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaConversao\BibliotecaConversao\bin\Debug\net8.0\BibliotecaConversao.pdb
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\BibliotecaConversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\BibliotecaConversao.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\BibliotecaConversao.AssemblyInfo.cs
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\BibliotecaConversao.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\BibliotecaConversao.dll
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\refint\BibliotecaConversao.dll
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\BibliotecaConversao.pdb
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaConversao\BibliotecaConversao\obj\Debug\net8.0\ref\BibliotecaConversao.dll

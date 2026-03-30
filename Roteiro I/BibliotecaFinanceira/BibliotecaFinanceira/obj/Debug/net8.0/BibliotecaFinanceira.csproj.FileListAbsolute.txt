@@ -1,0 +1,12 @@
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaFinanceira\BibliotecaFinanceira\bin\Debug\net8.0\BibliotecaFinanceira.deps.json
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaFinanceira\BibliotecaFinanceira\bin\Debug\net8.0\BibliotecaFinanceira.dll
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaFinanceira\BibliotecaFinanceira\bin\Debug\net8.0\BibliotecaFinanceira.pdb
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaFinanceira\BibliotecaFinanceira\obj\Debug\net8.0\BibliotecaFinanceira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaFinanceira\BibliotecaFinanceira\obj\Debug\net8.0\BibliotecaFinanceira.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaFinanceira\BibliotecaFinanceira\obj\Debug\net8.0\BibliotecaFinanceira.AssemblyInfo.cs
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaFinanceira\BibliotecaFinanceira\obj\Debug\net8.0\BibliotecaFinanceira.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaFinanceira\BibliotecaFinanceira\obj\Debug\net8.0\BibliotecaFinanceira.sourcelink.json
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaFinanceira\BibliotecaFinanceira\obj\Debug\net8.0\BibliotecaFinanceira.dll
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaFinanceira\BibliotecaFinanceira\obj\Debug\net8.0\refint\BibliotecaFinanceira.dll
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaFinanceira\BibliotecaFinanceira\obj\Debug\net8.0\BibliotecaFinanceira.pdb
+C:\Users\Eduardo\Documents\POO II\Roteiro I\BibliotecaFinanceira\BibliotecaFinanceira\obj\Debug\net8.0\ref\BibliotecaFinanceira.dll
