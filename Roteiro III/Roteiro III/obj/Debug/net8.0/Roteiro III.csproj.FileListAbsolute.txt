@@ -1,0 +1,17 @@
+C:\Users\Eduardo\source\projetos\Roteiro III\Roteiro III\bin\Debug\net8.0\Roteiro III.exe
+C:\Users\Eduardo\source\projetos\Roteiro III\Roteiro III\bin\Debug\net8.0\Roteiro III.deps.json
+C:\Users\Eduardo\source\projetos\Roteiro III\Roteiro III\bin\Debug\net8.0\Roteiro III.runtimeconfig.json
+C:\Users\Eduardo\source\projetos\Roteiro III\Roteiro III\bin\Debug\net8.0\Roteiro III.dll
+C:\Users\Eduardo\source\projetos\Roteiro III\Roteiro III\bin\Debug\net8.0\Roteiro III.pdb
+C:\Users\Eduardo\source\projetos\Roteiro III\Roteiro III\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Eduardo\source\projetos\Roteiro III\Roteiro III\obj\Debug\net8.0\Roteiro III.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\projetos\Roteiro III\Roteiro III\obj\Debug\net8.0\Roteiro III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\projetos\Roteiro III\Roteiro III\obj\Debug\net8.0\Roteiro III.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\projetos\Roteiro III\Roteiro III\obj\Debug\net8.0\Roteiro III.AssemblyInfo.cs
+C:\Users\Eduardo\source\projetos\Roteiro III\Roteiro III\obj\Debug\net8.0\Roteiro III.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\projetos\Roteiro III\Roteiro III\obj\Debug\net8.0\Roteiro .3855FD9A.Up2Date
+C:\Users\Eduardo\source\projetos\Roteiro III\Roteiro III\obj\Debug\net8.0\Roteiro III.dll
+C:\Users\Eduardo\source\projetos\Roteiro III\Roteiro III\obj\Debug\net8.0\refint\Roteiro III.dll
+C:\Users\Eduardo\source\projetos\Roteiro III\Roteiro III\obj\Debug\net8.0\Roteiro III.pdb
+C:\Users\Eduardo\source\projetos\Roteiro III\Roteiro III\obj\Debug\net8.0\Roteiro III.genruntimeconfig.cache
+C:\Users\Eduardo\source\projetos\Roteiro III\Roteiro III\obj\Debug\net8.0\ref\Roteiro III.dll

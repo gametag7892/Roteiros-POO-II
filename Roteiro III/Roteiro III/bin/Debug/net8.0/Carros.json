@@ -1,0 +1,17 @@
+[
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Corsa",
+    "Ano": 2000
+  },
+  {
+    "Marca": "Volkswagen",
+    "Modelo": "Gol",
+    "Ano": 1998
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corola",
+    "Ano": 2010
+  }
+]

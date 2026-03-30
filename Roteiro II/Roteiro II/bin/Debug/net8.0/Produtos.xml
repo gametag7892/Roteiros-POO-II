@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<estoque xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <item>
+    <nome>Teclado</nome>
+    <quantidade>5</quantidade>
+  </item>
+  <item>
+    <nome>Mouse</nome>
+    <quantidade>10</quantidade>
+  </item>
+</estoque>
