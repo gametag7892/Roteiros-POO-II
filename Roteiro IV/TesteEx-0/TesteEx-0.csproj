@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>TesteEx_0</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="coverlet.collector" Version="6.0.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
+    <PackageReference Include="xunit" Version="2.5.3" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.5.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Exercicio-0\Exercicio-0.csproj" />
+    <ProjectReference Include="..\Exercicio-1\Exercicio-1.csproj" />
+    <ProjectReference Include="..\Exercicio-2\Exercicio-2.csproj" />
+    <ProjectReference Include="..\Exercicio-3\Exercicio-3.csproj" />
+    <ProjectReference Include="..\Exercicio-4\Exercicio-4.csproj" />
+    <ProjectReference Include="..\Exercicio-5\Exercicio-5.csproj" />
+    <ProjectReference Include="..\TesteEx-1\TesteEx-1.csproj" />
+    <ProjectReference Include="..\TesteEx-2\TesteEx-2.csproj" />
+    <ProjectReference Include="..\TesteEx-3\TesteEx-3.csproj" />
+    <ProjectReference Include="..\TesteEx-4\TesteEx-4.csproj" />
+    <ProjectReference Include="..\TesteEx-5\TesteEx-5.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="Xunit" />
+  </ItemGroup>
+
+</Project>

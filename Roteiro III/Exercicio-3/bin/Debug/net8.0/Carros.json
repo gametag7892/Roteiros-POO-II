@@ -1,0 +1,17 @@
+[
+  {
+    "Marca": "Chevrolet",
+    "Modelo": "Onix",
+    "Ano": 2010
+  },
+  {
+    "Marca": "VolksWagen",
+    "Modelo": "Gol",
+    "Ano": 2005
+  },
+  {
+    "Marca": "Toyota",
+    "Modelo": "Corola",
+    "Ano": 1998
+  }
+]
