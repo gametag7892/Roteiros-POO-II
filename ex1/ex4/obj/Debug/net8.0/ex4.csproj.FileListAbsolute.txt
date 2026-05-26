@@ -1,0 +1,15 @@
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\ex4\bin\Debug\net8.0\ex4.exe
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\ex4\bin\Debug\net8.0\ex4.deps.json
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\ex4\bin\Debug\net8.0\ex4.runtimeconfig.json
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\ex4\bin\Debug\net8.0\ex4.dll
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\ex4\bin\Debug\net8.0\ex4.pdb
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\ex4\obj\Debug\net8.0\ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\ex4\obj\Debug\net8.0\ex4.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\ex4\obj\Debug\net8.0\ex4.AssemblyInfo.cs
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\ex4\obj\Debug\net8.0\ex4.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\ex4\obj\Debug\net8.0\ex4.sourcelink.json
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\ex4\obj\Debug\net8.0\ex4.dll
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\ex4\obj\Debug\net8.0\refint\ex4.dll
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\ex4\obj\Debug\net8.0\ex4.pdb
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\ex4\obj\Debug\net8.0\ex4.genruntimeconfig.cache
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\ex4\obj\Debug\net8.0\ref\ex4.dll

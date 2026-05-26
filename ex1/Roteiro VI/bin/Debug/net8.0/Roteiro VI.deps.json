@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Roteiro VI/1.0.0": {
+        "runtime": {
+          "Roteiro VI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Roteiro VI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

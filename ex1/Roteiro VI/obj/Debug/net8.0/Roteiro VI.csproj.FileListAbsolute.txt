@@ -1,0 +1,15 @@
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\Roteiro VI\bin\Debug\net8.0\Roteiro VI.exe
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\Roteiro VI\bin\Debug\net8.0\Roteiro VI.deps.json
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\Roteiro VI\bin\Debug\net8.0\Roteiro VI.runtimeconfig.json
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\Roteiro VI\bin\Debug\net8.0\Roteiro VI.dll
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\Roteiro VI\bin\Debug\net8.0\Roteiro VI.pdb
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\Roteiro VI\obj\Debug\net8.0\Roteiro VI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\Roteiro VI\obj\Debug\net8.0\Roteiro VI.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\Roteiro VI\obj\Debug\net8.0\Roteiro VI.AssemblyInfo.cs
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\Roteiro VI\obj\Debug\net8.0\Roteiro VI.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\Roteiro VI\obj\Debug\net8.0\Roteiro VI.sourcelink.json
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\Roteiro VI\obj\Debug\net8.0\Roteiro VI.dll
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\Roteiro VI\obj\Debug\net8.0\refint\Roteiro VI.dll
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\Roteiro VI\obj\Debug\net8.0\Roteiro VI.pdb
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\Roteiro VI\obj\Debug\net8.0\Roteiro VI.genruntimeconfig.cache
+C:\Users\Eduardo\Documents\repo\Roteiros-POO-II\ex1\Roteiro VI\obj\Debug\net8.0\ref\Roteiro VI.dll
